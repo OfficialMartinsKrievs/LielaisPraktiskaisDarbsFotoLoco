@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/type1"
+        android:title="Gaismas filtrs 1" />
+
+    <item
+        android:id="@+id/type2"
+        android:title="Gaismas filtrs 2" />
+
+    <item
+        android:id="@+id/type3"
+        android:title="Polarizācijas filtrs" />
+
+    <item
+        android:id="@+id/type4"
+        android:title="Jūtiguma filtrs" />
+
+    <item
+        android:id="@+id/type5"
+        android:title="Bez filtra" />
+
+</menu>
